@@ -1,0 +1,9 @@
+test
+test_input.txt
+trace_info
+*.o
+*.out
+cmake-build-debug/
+visualization/__pycache__/
+*.gif
+*.pyc
